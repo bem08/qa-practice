@@ -1,0 +1,1 @@
+Regression testing ensures existing functionality works properly after changes.
